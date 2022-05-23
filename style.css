@@ -25,7 +25,7 @@ nav a:hover{
 }
 .main{
     min-height: 90vh;
-    background: url('/pexels-life-of-pix-42408.jpg');
+    background: url('pexels-life-of-pix-42408.jpg');
     background-size: cover;
     background-position: center;
     color: white;
